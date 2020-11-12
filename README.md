@@ -1,3 +1,5 @@
 # ShowMyRepo
 "Hello everyone" 
-"Hello everyone5555" 
+<<<<<<< HEAD
+#Message from the third person 
+>>>>>>> main
